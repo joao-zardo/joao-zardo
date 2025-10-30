@@ -1,4 +1,5 @@
 # Hi, I'm João Zardo 👋
+🎓 Chem. Engineer | 💼 Innovation & R&D | 💻 CS Student | Bridging Engineering, Data & Strategy
 
 I am driven by two things: a deep curiosity to understand **how things work** at a fundamental level, and a pragmatic need to use that knowledge as a **lever for human time and cognition.**
 
@@ -15,7 +16,7 @@ My curiosity drove my academics. I didn't just want to use formulas; I needed to
 With a **Master's in Chemical Engineering (UFSC)**, I applied this mindset to business. I specialized in managing complex R&D projects, acting as the "translator" between deep technical innovation and strategic value. Because I understand *how* the tech works, I could effectively lead projects **funded by** major agencies (like FAPESC and Finep) and **recognized by** the industry (Prêmio Inovação Catarinense, ABIQUIM).
 
 #### 3. The New Toolkit (Computer Science)
-Today, I am upgrading my technical stack. I am not satisfied just *using* modern software; I need to understand *how it's built, secured, and validated*. I am currently studying Computer Science to add **Python, SQL, Data Analysis, and Information Security** to my core competencies.
+Today, I am expanding my technical stack. I am not satisfied just *using* modern software; I need to understand *how it's built, secured, and validated*. I am currently studying Computer Science to strengthen my core competencies with **Python, SQL, Data Analysis, and Information Security**.
 
 ---
 
@@ -55,4 +56,8 @@ My aim is to be a professional who can bridge the gap between complex processes 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaozardo12@gmail.com)
 
 ---
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-zardo&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-zardo&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-zardo&layout=compact&theme=dracula&hide_border=true"/>
+</p>
